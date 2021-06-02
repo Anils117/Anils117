@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Programming.
 - 💞️ I’m looking to collaborate on Higher Authorities.
 - 📫 How to reach me is to Find me.
+- 
   ✨"ONE DAY YOU WILL BE WHO YOU WISH TO BE...
       PREPARATION FOR THAT DAY STARTS TODAY..."✨
 <!---
