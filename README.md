@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anils117
+- 👋 Hi, I’m Anil.
 - 👀 I’m interested in Coding and Technology.
 - 🌱 I’m currently learning Programming.
 - 💞️ I’m looking to collaborate on Higher Authorities.
