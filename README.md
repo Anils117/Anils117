@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anil Kumar</h1>
 <h3 align="center">CS Undergraduate at Rgukt IIIT Ongole.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anils117&label=Profile%20views&color=0e75b6&style=flat" alt="anils117" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anils117" alt="anils117" /></a> </p>
-
 - 🔭 I’m currently working on **Problem Solving.**
 
 - 🌱 I’m currently learning **Problem Solving.**
