@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anil Kumar</h1>
 <h3 align="center">CS Undergraduate at Rgukt IIIT Ongole.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anils117&label=Profile%20views&color=0e75b6&style=flat" alt="anils117" /> </p>
 
 - 🔭 I’m currently working on **Problem Solving.**
 
