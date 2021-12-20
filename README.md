@@ -2,16 +2,6 @@
 <h3 align="center">CS Undergraduate at Rgukt IIIT Ongole.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anils117&label=Profile%20views&color=0e75b6&style=flat" alt="anils117" /> </p>
 
-- 🔭 I’m currently working on **Problem Solving.**
-
-- 🌱 I’m currently learning **Problem Solving.**
-
-- 👯 I’m looking to collaborate on **Algorithms.**
-
-- 🤝 I’m looking for help with **Devops.**
-
-- 💬 Ask me about **Python.**
-
 - 📫 How to reach me **mallemanil7@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1B4ijJ5y6CPgtne54GM2hA-53gE9xD_Kf/view?usp=sharing](https://drive.google.com/file/d/1B4ijJ5y6CPgtne54GM2hA-53gE9xD_Kf/view?usp=sharing)
