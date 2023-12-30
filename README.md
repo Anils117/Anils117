@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **mallemanil7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B4ijJ5y6CPgtne54GM2hA-53gE9xD_Kf/view?usp=sharing](https://drive.google.com/file/d/1B4ijJ5y6CPgtne54GM2hA-53gE9xD_Kf/view?usp=sharing)
+- 📄 Know about my experiences https://flowcv.com/resume/8se8v1rtkc
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
