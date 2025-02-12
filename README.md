@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anil Kumar</h1>
-<h3 align="center">CS Undergraduate at Rgukt IIIT Ongole.</h3>
+<h3 align="center">Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anils117&label=Profile%20views&color=0e75b6&style=flat" alt="anils117" /> </p>
 
 - 📫 How to reach me **mallemanil7@gmail.com**
 
-- 📄 Know about my experiences https://flowcv.com/resume/8se8v1rtkc
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MqsJKnx9xu_aQIeccsTmA0_-smaT8382/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
