@@ -8,11 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mallemanil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mallemanil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anil-kumar-mallem-b720661a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anil-kumar-mallem-b720661a0/" height="30" width="40" /></a>
-<a href="https://instagram.com/anilkumar_117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anilkumar_117" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mallemanil7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mallemanil7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anils117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anils117" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anilkumarmallem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anil-kumar-mallem" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
