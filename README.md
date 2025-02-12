@@ -11,8 +11,3 @@
 <a href="https://www.linkedin.com/in/anilkumarmallem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anil-kumar-mallem" height="30" width="40" /></a>
 </p>
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anils117&show_icons=true&locale=en" alt="anils117" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anils117&" alt="anils117" /></p>
